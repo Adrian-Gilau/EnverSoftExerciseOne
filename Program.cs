@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks.Dataflow;
 
-namespace ConsoleApplication1
+namespace EnverSoftExerciseOne
 {
     class Program
     {
