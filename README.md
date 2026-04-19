@@ -1,4 +1,4 @@
-# ConsoleApplication1 - List Comparison using C#
+# EnverSoftExerciseOne - List Comparison using C#
 
 ## 📌 Overview
 This project demonstrates different approaches to comparing two integer arrays in C#. The goal is to identify:
